@@ -18,6 +18,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		},
 	],
 	"clientFolder": "Ultima",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/vavasz/testlauncher/releases/download/4.0/Ultima.zip",
 	"clientExecutable": "ultima.exe"
 }
